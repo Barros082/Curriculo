@@ -172,9 +172,9 @@ Cursos {data-icon=chalkboard-teacher}
 
 ### Realizados
 
-- The Data Scientist’s Toolbox [(Universidade Johns Hopkins - Coursera)](https://github.com/Barros082/Cv_pagedown)
-- Inteligência Emocional [(Conquer)](https://github.com/Barros082/Cv_pagedown)
-- HTML Básico [(Funcação Bradesco)](https://github.com/Barros082/Cv_pagedown)
+- The Data Scientist’s Toolbox [(Universidade Johns Hopkins - Coursera)](https://github.com/Barros082/Curriculo)
+- Inteligência Emocional [(Conquer)](https://github.com/Barros082/Curriculo)
+- HTML Básico [(Funcação Bradesco)](https://github.com/Barros082/Curriculo)
 
 Online
 
